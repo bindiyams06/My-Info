@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I’m Bindiya
 
-<!--
-**bindiyams06/bindiyams06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Data Analyst | Business Analytics Enthusiast | Nutrition Expert
+I specialize in uncovering actionable insights through data-driven strategies. With a background in business analytics and experience across diverse industries like aviation, logistics, and healthcare, I love solving complex problems with data.
 
-Here are some ideas to get you started:
+💻 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming: Python, SQL, R, R Shiny
+Visualization Tools: Power BI, Tableau
+Analysis: Data cleansing, trend analysis, and statistical modeling
+📊 What I’ve Worked On
+
+Extracted key insights from website data at Emirates Group, identifying root causes of booking issues
+Developed an R Shiny application to visualize satellite data for space enthusiasts
+Led a team in designing business solutions for CVS Pharmacy, addressing operational challenges
+🚀 Current Interests
+I’m passionate about leveraging machine learning and advanced analytics to drive business innovation. Currently expanding my knowledge in predictive modeling and data-driven decision-making.
+
+🌱 Always Learning
+I’m continuously exploring new tools and technologies to enhance my skill set. Currently diving deeper into ML algorithms and big data platforms.
